@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zsolt Hegedűs!</h1>
 <h3 align="center">I enjoy create web pages and web applications, solve problems through design and code. I love to learn new things everyday. I strongly believe that web should be accessible to everyone.</h3>
 
-![image](https://github.com/zsolthegedus87/zsolthegedus87/blob/main/a11y.png)
+<img align="center" src="(https://raw.githubusercontent.com/zsolthegedus87/zsolthegedus87/main/a11y.png)" alt="a11y" width="200" />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
